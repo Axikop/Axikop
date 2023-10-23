@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axikop&label=Profile%20views&color=0e75b6&style=flat" alt="axikop" /> </p>
 
-<img align="right" alt="Coding" width="400"src="https://cache.teia.rocks/ipfs/QmVacftCGVBnPJ5PzZR1b9aBJVAqi93bcGadxKP37CLVv1">
+<img align="right" alt="Coding" width="400"src="https://i.giphy.com/media/ITRemFlr5tS39AzQUL/200w.gif">
 
 - 🔭 I’m currently working on **Open Computer Vision project**
 
