@@ -22,7 +22,7 @@ I'm a final-year Computer Science student with a strong passion for building int
 
 ### 📫 How to Reach Me
 
-* **Email:** [adit2003dps@gmail.com](mailto:adit2003dps@gmail.com)    
+* **Email:** [adi2003dps@gmail.com](mailto:adi2003dps@gmail.com)    
 
 ---
 
