@@ -1,21 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Aditya 👋
 
-<h3 align="center">A Machine learning enthusiast</h3>
+I'm a final-year Computer Science student with a strong passion for building intelligent systems and scalable data solutions. I'm actively exploring the intersection of **Data Engineering** and **Machine Learning**, with a focus on creating end-to-end projects that turn raw data into actionable insights.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axikop&label=Profile%20views&color=0e75b6&style=flat" alt="axikop" /> </p>
+---
 
-  <img src="https://i.giphy.com/media/ITRemFlr5tS39AzQUL/200w.gif" alt="Coding" width="400" height="200">
+### 🔭 What I'm Currently Working On
+
+* **[Project DS-X: Live Air Quality Data Pipeline](https://github.com/Axikop/ProjectX)**: An end-to-end data engineering project that ingests live data using **Kafka**, processes it in real-time with **Apache Spark**, stores it in **PostgreSQL**, and visualizes it on a **Streamlit** dashboard.
+* **OpenCV Projects**: Exploring computer vision techniques for object detection and image analysis.
+
+---
+
+### 🛠️ My Tech Stack
+
+* **Languages:** Python, C++,C 
+* **Data Engineering:** Apache Spark, Apache Kafka
+* **Machine Learning:** Scikit-learn, TensorFlow, OpenCV
+* **Tools & Platforms:** Git, GitHub, Linux, VS Code
+
+---
+
+### 📫 How to Reach Me
+
+* **Email:** [adit2003dps@gmail.com](mailto:adit2003dps@gmail.com)
+* **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-profile/)
+    *(**Important:** Make sure to create a LinkedIn profile and add the URL here!)*
+
+---
 
 
-- 🔭 I’m currently working on **Open Computer Vision project**
-
-- 🌱 I’m currently learning **Open Computer vision-Deep learning**
-
-- 👨‍💻 All of my projects are available at [My GitHub repositories](My GitHub repositories)
-
-- 💬 Ask me about **Machine Learning Algorithms**
-
-- 📫 How to reach me **adi2003dps@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
